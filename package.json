@@ -1,0 +1,22 @@
+{
+  "name": "qa-automation-amila",
+  "version": "1.0.0",
+  "description": "Cypress Automation QA Systemduo course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amila-os/QA-Automation-Amila.git"
+  },
+  "author": "Amila O",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amila-os/QA-Automation-Amila/issues"
+  },
+  "homepage": "https://github.com/amila-os/QA-Automation-Amila#readme",
+  "devDependencies": {
+    "cypress": "^15.3.0"
+  }
+}
